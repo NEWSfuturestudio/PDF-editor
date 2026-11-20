@@ -16,7 +16,7 @@
 [![Tests](https://img.shields.io/badge/tests-29%20suites%20local-brightgreen?style=flat-square)](#-它凭什么值得信任)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 
-[![Release](https://img.shields.io/github/v/release/1ZJYQWQ/PDF-editor?include_prereleases&style=flat-square&color=orange&label=release)](https://github.com/1ZJYQWQ/PDF-editor/releases)
+[![Release](https://img.shields.io/github/v/release/NEWSfuturestudio/PDF-editor?include_prereleases&style=flat-square&color=orange&label=release)](https://github.com/NEWSfuturestudio/PDF-editor/releases)
 
 简体中文 | [English](README.en.md)
 
@@ -264,6 +264,6 @@ static/        前端（原生 ES Module，无框架无构建）
 
 **用 `0x3f3f3f3f` 的时间，填补开源的每一块拼图。**
 
-<sub>Built by <a href="https://github.com/1ZJYQWQ">1ZJYQWQ</a> · Apache-2.0 · <code>while(true) { code(); }</code></sub>
+<sub>Built by <a href="https://github.com/NEWSfuturestudio">NEWSfuturEStudio</a> · Apache-2.0 · <code>while(true) { code(); }</code></sub>
 
 </div>

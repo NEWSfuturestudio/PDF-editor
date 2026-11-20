@@ -16,7 +16,7 @@ Encryption really is AES-256 — not a black box painted over, not a page flatte
 [![Tests](https://img.shields.io/badge/tests-29%20suites%20local-brightgreen?style=flat-square)](#-why-trust-it)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)](LICENSE)
 
-[![Release](https://img.shields.io/github/v/release/1ZJYQWQ/PDF-editor?include_prereleases&style=flat-square&color=orange&label=release)](https://github.com/1ZJYQWQ/PDF-editor/releases)
+[![Release](https://img.shields.io/github/v/release/NEWSfuturestudio/PDF-editor?include_prereleases&style=flat-square&color=orange&label=release)](https://github.com/NEWSfuturestudio/PDF-editor/releases)
 
 [简体中文](README.md) | English
 
@@ -271,6 +271,6 @@ as its default instance. Override the path with `PDFVIEWER_CJK_FONT`;
 
 **Filling in the missing pieces of open source, one `0x3f3f3f3f` at a time.**
 
-<sub>Built by <a href="https://github.com/1ZJYQWQ">1ZJYQWQ</a> · Apache-2.0 · <code>while(true) { code(); }</code></sub>
+<sub>Built by <a href="https://github.com/NEWSfuturestudio">NEWSfuturEStudio</a> · Apache-2.0 · <code>while(true) { code(); }</code></sub>
 
 </div>
